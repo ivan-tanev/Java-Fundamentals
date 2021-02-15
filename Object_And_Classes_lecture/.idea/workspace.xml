@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55996f08-c635-4b79-a02e-9e956e10eab6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1eEQiaPORORtMwgzUCE0GsbWVkS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Application.Students">
+    <configuration name="Big_Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Big_Factorial" />
+      <module name="Object_And_Classes_lecture" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Randomize_Words" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Randomize_Words" />
+      <module name="Object_And_Classes_lecture" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Songs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Songs" />
+      <module name="Object_And_Classes_lecture" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Students" />
+      <module name="Object_And_Classes_lecture" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sum_Big_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sum_Big_Numbers" />
+      <module name="Object_And_Classes_lecture" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Students" />
+        <item itemvalue="Application.Songs" />
+        <item itemvalue="Application.Big_Factorial" />
+        <item itemvalue="Application.Sum_Big_Numbers" />
+        <item itemvalue="Application.Randomize_Words" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55996f08-c635-4b79-a02e-9e956e10eab6" name="Default Changelist" comment="" />
+      <created>1593884399320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593884399320</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="359" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1593898465558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="359" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593898465558" />
+    <state width="1062" height="347" key="GridCell.Tab.0.bottom" timestamp="1593903281635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1062" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593903281635" />
+    <state width="1062" height="347" key="GridCell.Tab.0.center" timestamp="1593903281635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1062" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593903281635" />
+    <state width="1062" height="347" key="GridCell.Tab.0.left" timestamp="1593903281635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1062" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593903281635" />
+    <state width="1062" height="347" key="GridCell.Tab.0.right" timestamp="1593903281635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1062" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593903281635" />
+    <state width="1062" height="347" key="GridCell.Tab.1.bottom" timestamp="1593903281635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1062" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593903281635" />
+    <state width="1062" height="347" key="GridCell.Tab.1.center" timestamp="1593903281635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1062" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593903281635" />
+    <state width="1062" height="347" key="GridCell.Tab.1.left" timestamp="1593903281635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1062" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593903281635" />
+    <state width="1062" height="347" key="GridCell.Tab.1.right" timestamp="1593903281635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1062" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593903281635" />
+    <state x="0" y="144" key="new project wizard" timestamp="1593903280309">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="144" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1593903280309" />
+    <state x="217" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1593884537434">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="217" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593884537434" />
+  </component>
+</project>

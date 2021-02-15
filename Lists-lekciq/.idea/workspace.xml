@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98998a21-8604-42a8-abcd-e2a42deb789c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1e8dFEIsQU7Nzk1BCojCKi62hly" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Application.Remove_Negatives_And_Reverse">
+    <configuration name="List_Manipulation_Advanced" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List_Manipulation_Advanced" />
+      <module name="Lists-lekciq" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="List_Manipulation_Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List_Manipulation_Basics" />
+      <module name="Lists-lekciq" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="List_Of_Products" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List_Of_Products" />
+      <module name="Lists-lekciq" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Merging_Lists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Merging_Lists" />
+      <module name="Lists-lekciq" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Remove_Negatives_And_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Remove_Negatives_And_Reverse" />
+      <module name="Lists-lekciq" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Remove_Negatives_And_Reverse" />
+        <item itemvalue="Application.List_Of_Products" />
+        <item itemvalue="Application.List_Manipulation_Advanced" />
+        <item itemvalue="Application.List_Manipulation_Basics" />
+        <item itemvalue="Application.Merging_Lists" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98998a21-8604-42a8-abcd-e2a42deb789c" name="Default Changelist" comment="" />
+      <created>1593707047544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593707047544</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="161" y="182" key="#Intentions" timestamp="1593731056723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="161" y="182" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1593731056723" />
+    <state x="93" y="100" width="957" height="847" key="DiffContextDialog" timestamp="1593727937881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="93" y="100" width="957" height="847" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593727937881" />
+    <state width="1093" height="347" key="GridCell.Tab.0.bottom" timestamp="1593732059804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1093" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593732059804" />
+    <state width="1093" height="347" key="GridCell.Tab.0.center" timestamp="1593732059804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1093" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593732059804" />
+    <state width="1093" height="347" key="GridCell.Tab.0.left" timestamp="1593732059804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1093" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593732059804" />
+    <state width="1093" height="347" key="GridCell.Tab.0.right" timestamp="1593732059804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1093" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593732059804" />
+    <state width="1093" height="347" key="GridCell.Tab.1.bottom" timestamp="1593732059805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1093" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593732059805" />
+    <state width="1093" height="347" key="GridCell.Tab.1.center" timestamp="1593732059804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1093" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593732059804" />
+    <state width="1093" height="347" key="GridCell.Tab.1.left" timestamp="1593732059804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1093" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593732059804" />
+    <state width="1093" height="347" key="GridCell.Tab.1.right" timestamp="1593732059805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1093" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593732059805" />
+    <state x="0" y="144" key="new project wizard" timestamp="1593732058459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="144" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1593732058459" />
+    <state x="185" y="244" key="run.anything.popup" timestamp="1593707727999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="185" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593707727999" />
+  </component>
+</project>

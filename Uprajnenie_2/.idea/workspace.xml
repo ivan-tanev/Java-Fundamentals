@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b016740-26f9-4127-b832-794d0fc2716b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1d5c2kvR3JalnWzDk65f1x2c4Om" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Application.Beer_Kegs">
+    <configuration name="Beer_Kegs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beer_Kegs" />
+      <module name="Uprajnenie_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Print_Part_Of_ASCII_Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Print_Part_Of_ASCII_Table" />
+      <module name="Uprajnenie_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sum_Of_Chars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sum_Of_Chars" />
+      <module name="Uprajnenie_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Triples_Of_Latin_Letters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Triples_Of_Latin_Letters" />
+      <module name="Uprajnenie_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Water_Overflow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Water_Overflow" />
+      <module name="Uprajnenie_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Beer_Kegs" />
+        <item itemvalue="Application.Water_Overflow" />
+        <item itemvalue="Application.Triples_Of_Latin_Letters" />
+        <item itemvalue="Application.Print_Part_Of_ASCII_Table" />
+        <item itemvalue="Application.Sum_Of_Chars" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b016740-26f9-4127-b832-794d0fc2716b" name="Default Changelist" comment="" />
+      <created>1591718189407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591718189407</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="100" width="919" height="847" key="DiffContextDialog" timestamp="1591799415421">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="93" y="100" width="919" height="847" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591799415421" />
+    <state width="994" height="214" key="GridCell.Tab.0.bottom" timestamp="1596387518880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="994" height="214" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596387518880" />
+    <state width="994" height="214" key="GridCell.Tab.0.center" timestamp="1596387518880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="994" height="214" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596387518880" />
+    <state width="994" height="214" key="GridCell.Tab.0.left" timestamp="1596387518880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="994" height="214" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596387518880" />
+    <state width="994" height="214" key="GridCell.Tab.0.right" timestamp="1596387518880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="994" height="214" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596387518880" />
+    <state width="986" height="347" key="GridCell.Tab.1.bottom" timestamp="1591823605495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="986" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591823605495" />
+    <state width="986" height="347" key="GridCell.Tab.1.center" timestamp="1591823605495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="986" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591823605495" />
+    <state width="986" height="347" key="GridCell.Tab.1.left" timestamp="1591823605495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="986" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591823605495" />
+    <state width="986" height="347" key="GridCell.Tab.1.right" timestamp="1591823605495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="986" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591823605495" />
+    <state x="254" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1596387408010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="254" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596387408010" />
+    <state x="0" y="141" key="new project wizard" timestamp="1596387517352">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="141" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1596387517352" />
+    <state x="172" y="244" key="run.anything.popup" timestamp="1591726334535">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="172" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591726334535" />
+    <state x="179" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1591725976874">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="179" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591725976874" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Uprajnenie_2$Beer_Kegs.ic" NAME="Beer_Kegs Coverage Results" MODIFIED="1596387432344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

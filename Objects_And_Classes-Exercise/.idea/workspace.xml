@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b390397-2ef3-427a-a24b-1e205557747c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1fYGGf7dQnnQt9LfVDDRIBRSdOl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects Java Fundamentals\Objects_And_Classes-Exercise\src\Opinion_Poll" />
+      <recent name="D:\Projects Java Fundamentals\Objects_And_Classes-Exercise\src\Articles" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Opinion_Poll.Main" />
+      <module name="Objects_And_Classes-Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Opinion_Poll.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vehicle_Catalogue.Main" />
+      <module name="Objects_And_Classes-Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Vehicle_Catalogue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Order_By_Age.Main" />
+      <module name="Objects_And_Classes-Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Order_By_Age.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Students.Main" />
+      <module name="Objects_And_Classes-Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Students.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Objects_And_Classes-Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Articles.Main" />
+      <module name="Objects_And_Classes-Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b390397-2ef3-427a-a24b-1e205557747c" name="Default Changelist" comment="" />
+      <created>1596387517696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596387517696</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="340" y="240" key="#com.intellij.ide.util.MemberChooser" timestamp="1596487623791">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="340" y="240" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1596487623791" />
+    <state x="93" y="100" width="825" height="847" key="DiffContextDialog" timestamp="1596481368799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="93" y="100" width="825" height="847" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596481368799" />
+    <state width="993" height="347" key="GridCell.Tab.0.bottom" timestamp="1596505905006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="993" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596505905006" />
+    <state width="993" height="347" key="GridCell.Tab.0.center" timestamp="1596505905006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="993" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596505905006" />
+    <state width="993" height="347" key="GridCell.Tab.0.left" timestamp="1596505905006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="993" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596505905006" />
+    <state width="993" height="347" key="GridCell.Tab.0.right" timestamp="1596505905006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="993" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596505905006" />
+    <state width="993" height="347" key="GridCell.Tab.1.bottom" timestamp="1596505905007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="993" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596505905007" />
+    <state width="993" height="347" key="GridCell.Tab.1.center" timestamp="1596505905007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="993" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596505905007" />
+    <state width="993" height="347" key="GridCell.Tab.1.left" timestamp="1596505905006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="993" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596505905006" />
+    <state width="993" height="347" key="GridCell.Tab.1.right" timestamp="1596505905007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="993" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596505905007" />
+    <state x="230" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1596472126643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="230" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596472126643" />
+    <state x="0" y="144" key="new project wizard" timestamp="1596505903532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="144" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1596505903532" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Students/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Students/Main.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

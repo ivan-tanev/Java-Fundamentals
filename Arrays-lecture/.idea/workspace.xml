@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7959ef51-fb8d-41d9-96bb-0066c31f9a40" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dxJdzgK6lVZgGQSCyM1rDSalV3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Application.Condense_Array_To_Number">
+    <configuration name="Condense_Array_To_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Condense_Array_To_Number" />
+      <module name="Arrays-lecture" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Equal_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Equal_Arrays" />
+      <module name="Arrays-lecture" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Even_And_Odd_Subtraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Even_And_Odd_Subtraction" />
+      <module name="Arrays-lecture" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reverse_Array_Of_Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reverse_Array_Of_Strings" />
+      <module name="Arrays-lecture" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sum_Even_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sum_Even_Numbers" />
+      <module name="Arrays-lecture" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Condense_Array_To_Number" />
+        <item itemvalue="Application.Equal_Arrays" />
+        <item itemvalue="Application.Even_And_Odd_Subtraction" />
+        <item itemvalue="Application.Reverse_Array_Of_Strings" />
+        <item itemvalue="Application.Sum_Even_Numbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7959ef51-fb8d-41d9-96bb-0066c31f9a40" name="Default Changelist" comment="" />
+      <created>1593360901726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593360901726</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1030" height="347" key="GridCell.Tab.0.bottom" timestamp="1593376548689">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1030" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593376548689" />
+    <state width="1030" height="347" key="GridCell.Tab.0.center" timestamp="1593376548689">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1030" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593376548689" />
+    <state width="1030" height="347" key="GridCell.Tab.0.left" timestamp="1593376548688">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1030" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593376548688" />
+    <state width="1030" height="347" key="GridCell.Tab.0.right" timestamp="1593376548689">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1030" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593376548689" />
+    <state width="1030" height="347" key="GridCell.Tab.1.bottom" timestamp="1593376548689">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1030" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593376548689" />
+    <state width="1030" height="347" key="GridCell.Tab.1.center" timestamp="1593376548689">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1030" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593376548689" />
+    <state width="1030" height="347" key="GridCell.Tab.1.left" timestamp="1593376548689">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1030" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593376548689" />
+    <state width="1030" height="347" key="GridCell.Tab.1.right" timestamp="1593376548689">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1030" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593376548689" />
+    <state x="0" y="144" key="new project wizard" timestamp="1593376546420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="144" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1593376546420" />
+  </component>
+</project>
